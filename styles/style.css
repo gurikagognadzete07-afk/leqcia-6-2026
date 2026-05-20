@@ -1,17 +1,164 @@
-* {
-	margin: 0px;
-	padding: 0px;
+
+
+body {
+	background-color: rgba(241, 241, 241, 1);
 }
 
-header > p {
 
-	display: inline-block;
-	margin-top: 31px;
-	margin-left: 35px;
-	margin-right: 35px;
-	font-family: roboto; 
+.title {
+
+ display: inline-block;
+ width: 32px;
+ height: 13px;
+ font-family: roboto;
+ font-weight: 700;
+ font-size: 11px;
+ margin-left: 35px;
+ margin-right: 35px;
+
+
+}
+
+.cont-1 {
+	width: 1220px;
+	margin-left: 140px;
+}
+
+.satauri {
+	font-size: 24px;
 	font-weight: 700;
-	width: 32px;
-	height: 13px;
-	font-size: 11px;
+	color: rgba(0, 0, 0, 1);
+	margin-bottom: 27px;
+	font-family: "Roboto";
 }
+
+.card {
+	width: 362px;
+	height: 357px;
+	background-color: rgba(255, 255, 255, 1);
+	border-radius: 5px;
+	display: inline-block;
+	margin-right: 40px;
+	position: relative;
+}
+
+.card > h6 {
+	position: absolute;
+	top: 32px;
+	left: 41px;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: "Roboto";
+	color: rgba(255, 255, 255, 1);
+}
+
+.card > img {
+	width: 362px;
+	height: 186px;
+	border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.texts {
+	padding-top: 68px;
+	padding-left: 37px;
+	color: rgba(138, 135, 135, 1);
+	font-family: "Roboto";
+	font-size: 10px;
+	font-weight: 700;
+}
+
+.texts > p {
+	margin-bottom: 14px;
+}
+
+.texts img {
+	width: 16px;
+	height: 16px;
+	margin-right: 16px;
+}
+
+
+#cont-2 {
+
+	width: 1165px;
+	margin-left: 140px;
+
+}
+
+
+
+#satauri-2 {
+
+	width: 196px;
+	height: 28px;
+	font-family:roboto ;
+	font-weight: 800;
+	font-size: 24px;
+	color: rgba(0, 0, 0, 1);
+	margin-top: 57px;
+
+}
+
+
+
+
+.pics {
+
+	width: 758px;
+	height: 430px;
+	position: relative;
+}
+
+
+
+
+ #text {
+    position: absolute;
+    bottom: -190px;
+    left: 400px;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: Roboto;
+	color: rgba(255, 255, 255, 1);
+	display: inline-block;
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
